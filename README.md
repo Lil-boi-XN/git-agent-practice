@@ -1,2 +1,2 @@
 # git-agent-practice
-This is my first Git practice.
+This is the conflict-test branch.
